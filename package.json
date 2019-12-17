@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "bin": "./hello1.js",
+  "bin": "./index.js",
   "author": "",
   "license": "ISC"
 }
